@@ -33,7 +33,7 @@ header.navbar-container .logo img {
  
 header.navbar-container .nav-list ul {
   padding-left: 0;
- background-color: white;
+ background-color: #f0f0f0;
   display: flex;
   justify-content: center;
   gap: 2rem 1rem;
@@ -194,6 +194,7 @@ main aside .social-media li a:hover {
 #textContainer.expanded #text {
   white-space: normal;
   height: auto;
+  display: block;
 }
 
 /* Medium devices (768px dan di bawahnya) */
